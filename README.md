@@ -1,5 +1,11 @@
 # Обучение с подкреплением в Python
-https://github.com/kekwak/Microbe/assets/51455473/12e77769-1730-4baa-85ae-8ea313c562b5
+
+
+
+https://github.com/kekwak/Microbe/assets/51455473/20769217-b12f-485e-85ad-42be36146d58
+
+
+
 Бот на Python с помощью Q-Learning
 
 # Запуск
