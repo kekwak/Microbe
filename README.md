@@ -10,8 +10,11 @@ https://github.com/kekwak/Microbe/assets/51455473/20769217-b12f-485e-85ad-42be36
 
 # Запуск
 >git clone https://github.com/kekwak/Microbe
+>
 >cd Microbe
+>
 >pip install -r requirements.txt
+>
 >python demo.py
 
 # Пояснение
