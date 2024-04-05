@@ -23,7 +23,7 @@ def load_nn(modelname):
 
     q_network = nn.QNetwork(state_size, action_size, 0, 0, device).to(device)
 
-    q_network.load_state_dict(torch.load(f'resources/models/{modelname}'))
+    q_network.load_state_dict(torch.load(f'resources/models/{modelname}', map_location=device))
     return q_network.eval()
 
 
