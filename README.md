@@ -7,13 +7,12 @@ https://github.com/kekwak/Microbe/assets/51455473/20769217-b12f-485e-85ad-42be36
 Бот на Python с помощью Q-Learning
 
 # Запуск
->git clone https://github.com/kekwak/Microbe
-
->cd Microbe
-
->pip install -r requirements.txt
-
->python demo.py
+```python
+git clone https://github.com/kekwak/Microbe
+cd Microbe
+pip install -r requirements.txt
+python demo.py
+```
 
 # Пояснение
 В каждой сыгранной игре бактерия наблюдает за 24 состояниями - пересечениями линий и точек на игровом поле. Благодаря алгоритму Q-learning после многократного прохождения бактерия способна стабильно получать высокие баллы.
